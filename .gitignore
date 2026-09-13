@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# TextureFlow runtime data
+state/
+build/
+TT/
+*.log
+TextureFlow.disabled
+
+# Bundled release dependencies and archives
+bin/
+runtime/
+*.zip
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
