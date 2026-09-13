@@ -1,0 +1,10 @@
+[project]
+name = "textureflow-alpha"
+version = "0.4.1a1"
+description = "Automatic neural texture dump, upscale, cache and injection pipeline"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+packages = ["textureflow"]
